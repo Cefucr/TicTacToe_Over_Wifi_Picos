@@ -4,6 +4,8 @@ A Tic-tac-toe game made with python. Made in collaboration with <a href="https:/
 The game works over wifi you just need to define the server codes(tttServer.py) ip address on line 141 on the 
 client side(tttClient.py). You can leave the serverside code ip as 0.0.0.0.
 
+THe other folder has a code with a restart so you can play more. The code is otherwise the same.
+
 
 In this picture you can see what kind of connections and components we use. 
 It uses a RasberryPi PicoW 2022 connected to a Pico-Dual-Expander that has a Pico-LCD-1.14
